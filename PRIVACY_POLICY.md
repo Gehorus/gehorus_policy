@@ -1,4 +1,4 @@
-## Shake Alarm Clock: Privacy policy
+## Gehorus : Privacy policy
 
 Bienvenu sur l'application Gehorus pour Android qui permet de géolocaliser des échantillons de sols.
 
