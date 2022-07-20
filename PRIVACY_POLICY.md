@@ -12,10 +12,10 @@ Les informations sensibles de l'utilisateur ammenées à circuler à travers l'a
 - Le mot de passe
 - La localisation
 
-Chacune de ces informations est collecté et stocker sur un serveur et ne pourra sera accessible que par les employés acrédités de l'IRDA. 
+Chacune de ces informations est collectée et stockée sur un serveur et ne sera accessible que par les employés acrédités de l'IRDA. 
 Le mot de passe dispose d'un status particulier et sera toujours chiffré et innaccessible.
 
-Si vous mettez à jour des vulnerabilités dans la sécurité de l'application ou avez n'importe quelle question sur la façon dont vos données sont stockées, envoyez un email à l'adresse : gehorus.irda@gmail.com.
+Si vous découvrez des vulnerabilités dans la sécurité de l'application ou avez une question sur la façon dont vos données sont stockées, envoyez un email à l'adresse : gehorus.irda@gmail.com.
 
 Bien cordialement, 
 
