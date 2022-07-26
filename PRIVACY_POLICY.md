@@ -1,6 +1,6 @@
 ## Gehorus : Privacy policy
 
-Bienvenu sur l'application Gehorus pour Android qui permet de géolocaliser des échantillons de sols.
+Bienvenue sur l'application Gehorus pour Android qui permet de géolocaliser des échantillons de sols.
 
 L'application est disponible sur Google Play.
 
